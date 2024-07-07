@@ -1,1 +1,1 @@
-# BinaryClassification
+# BinaryClassification:두선택지중하나를선택하여판별하는분류방법
